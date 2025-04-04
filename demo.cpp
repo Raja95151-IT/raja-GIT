@@ -1,1 +1,2 @@
-cout<<"hello"
+print<<"hello"
+  hello raja
